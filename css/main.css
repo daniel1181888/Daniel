@@ -41,9 +41,9 @@ h1 {
 
 header {
     width: 100%;
+    height: 16vh;
     display: flex;
     justify-content: center;
-    height: 16vh;
     background-color: #619ead;
 }
 
@@ -61,8 +61,8 @@ nav {
 
 #kekfoto {
     box-shadow: rgba(3, 102, 214, 0.3) 0px 0px 0px 3px;
-    height: 500px;
     width: 500px;
+    height: 500px;
 }
 
 #men {
